@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/126
     wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26854#The-Trembling-of-a-Leaf--Little-Stories-of-the-South-Sea-Islands
 gutenberg_issued: '2008-10-09'
 gutenberg_type: Text
 identifiers:
